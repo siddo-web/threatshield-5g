@@ -1,0 +1,3 @@
+from pathlib import Path
+
+sample = Path("data/sample/5g_nidd_sample.csv")
